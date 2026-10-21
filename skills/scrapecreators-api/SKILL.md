@@ -204,7 +204,6 @@ Map user intent to the right endpoint. After selecting an endpoint, fetch its Op
 | Trending feed | `/v1/tiktok/get-trending-feed` | region (required) | `US` |
 | Popular videos | `/v1/tiktok/videos/popular` | | |
 | Popular creators | `/v1/tiktok/creators/popular` | | |
-| Popular hashtags | No longer available | | |
 | Popular songs | `/v1/tiktok/songs/popular` | | |
 | Song details | `/v1/tiktok/song` | clipId | `7439295283975702544` |
 | Videos using song | `/v1/tiktok/song/videos` | clipId | `7439295283975702544` |
